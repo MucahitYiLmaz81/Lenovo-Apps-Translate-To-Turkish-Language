@@ -280,5 +280,5 @@ Daha az sayıda dosya aktarmayı seçebilir veya kartta daha fazla alanı boşal
     <string name="File_Back">Geri</string>
     <string name="File_Progress_Current">Mevcut ilerleme:</string>
     <string name="File_Progress_Total">Toplam ilerleme:</string>
-    <string name="File_ViewImage_Slider">幻灯片</string>
+    <string name="File_ViewImage_Slider">Slayt</string>
 </resources>
