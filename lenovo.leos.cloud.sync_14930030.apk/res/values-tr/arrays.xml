@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="frequency_question">
+        <item>What’s the default password of SYNCit? Then how to change the password ? What should I do if I forget my password?</item>
+        <item>Dose SYNCit charge?</item>
+        <item>What is contact-sync?</item>
+        <item>Why does my contacts reduce after synchronization?</item>
+        <item>How to manage my backup data when I have backed up completely?</item>
+        <item>Is SYNCit safe? Will it steal my telephone number or my backup data?</item>
+        <item>How to log out?</item>
+        <item>How to restore my contacts if I have deleted them by mistake?</item>
+        <item>My phone is not made by Lenovo. Can I use SYNCit?</item>
+        <item>Does SYNCit support other platform?</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>"Default Password: You will get a message from Lenovo after your phone automatically registers and logins the SYNCit. Please check whether the kind of Security Software(as 360se and so on) obstructs the message or not in case of you don’t get it for a long time. If you lose the message or never get it, please refer to Forget My Password. 
+
+Change My Password: Visit the website http://cloud.lenovo.com with PC and login. Then go to change. 
+
+Forget My Password: visit the website http://cloud.lenovo.com，at the upper-right click on log in,then you get [Forget Password]."</item>
+        <item>SYNCit is a free mobile APP. But the network traffic cost which is produced by loading and using will be charged by operators.</item>
+        <item>Keep the local and cloud in same. Ensure the contact not lost.</item>
+        <item>SYNCit will automatically merge the reduplicated contacts in your phone.</item>
+        <item>Visit the website http://cloud.lenovo.com with PC and login. Then you can operate what data you have backed up, such as delete, modify, add etc.</item>
+        <item>SYNCit stores user’s information in the way of online banking-level encryption. It can definitely keep the personal data and information security and they will never be leaked.</item>
+        <item>Click at the upper-left corner about account,then choice[Log Out].</item>
+        <item>If you delete the contacts, once sync contacts, you can try [Recover Contacts] through your phone or visit the website http://cloud.lenovo.com and login by PC.</item>
+        <item>Of course you can. If your phone’s system is one of the followings: android, iOS, Symbian or supporting java, you can find the match version to use.</item>
+        <item>Yes, it supports Symbian, iOS, Android and Java platform.</item>
+    </string-array>
+</resources>
