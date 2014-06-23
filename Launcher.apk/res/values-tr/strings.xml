@@ -219,7 +219,7 @@
     <string isim="com_lenovo_lsf_auto_oneKeyLogin_application_no_permissions">Uygulamanın işleme erişim hakkı yoktur</string>
     <string isim="com_lenovo_lsf_auto_oneKeyLogin_goinig">Son kez giriş işlemini tamamlamak için lütfen bekleyin </string>
     <string isim="com_lenovo_lsf_sso_sina_login_progress">Micro bo giriş yapılıyor, lütfen sonra...</string>
-    <string isim="com_lenovo_lsf_sso_sina_auth_cancel"Kimlik doğrulama iptal</string>
+    <string isim="com_lenovo_lsf_sso_sina_auth_cancel"Kimlik doğrulama iptal </string>
     <string isim="com_lenovo_lsf_sso_sina_auth_error">Kimlik doğrulama başarısız oldu:</string>
     <string isim="com_lenovo_lsf_third_token_time_out">Simge süresi dolmuş</string>
     <string isim="com_lenovo_lsf_choose_location_title">Öğeyi seçin</string>
