@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="categoryType">
-        <item>Private</item>
-        <item>Public</item>
+        <item>Özel</item>
+        <item>Ortak</item>
     </string-array>
     <string-array name="bg_sync_time">
-        <item>Disable background auto sync</item>
-        <item>Every 15 mins</item>
-        <item>Every 30 mins</item>
-        <item>Hourly</item>
-        <item>Daily</item>
+        <item>Arkaplanda otomatik senkronizasyonu devredışı bırak</item>
+        <item>Her 15 dakikada</item>
+        <item>Her 30 dakikada</item>
+        <item>Saatlik</item>
+        <item>Günlük</item>
     </string-array>
     <string-array name="note_more_tool">
-        <item>Star</item>
-        <item>Delete</item>
-        <item>Share</item>
+        <item>Favori</item>
+        <item>Sil</item>
+        <item>Paylaş</item>
     </string-array>
     <string-array name="pre_category">
-        <item>Default Category</item>
-        <item>Personal Note/Documents</item>
-        <item>Work Related</item>
-        <item>Network Articles</item>
-        <item>My Files</item>
-        <item>My Album</item>
-        <item>Learning Relat</item>
-        <item>Lexicon</item>
-        <item>My Notes</item>
+        <item>Varsayılan Kategori</item>
+        <item>Kişisel Not/Döküman</item>
+        <item>İş</item>
+        <item>Makale</item>
+        <item>Dosyalarım</item>
+        <item>Albümüm</item>
+        <item>Ders</item>
+        <item>Sözlük</item>
+        <item>Notlarım</item>
     </string-array>
     <string-array name="pre_tag">
         <item>Lecloud</item>
