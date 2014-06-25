@@ -76,7 +76,7 @@
     <string name="com_lenovo_lsf_psauthen_error1">Network connection error. Please retry.</string>
     <string name="com_lenovo_lsf_psauthen_error2">"The PID account can't login"</string>
     <string name="com_lenovo_lsf_psauthen_error3">The user does not exist</string>
-    <string name="com_lenovo_lsf_psauthen_error4">Password error</string>
+    <string name="com_lenovo_lsf_psauthen_error4">Şifre yanlış</string>
     <string name="com_lenovo_lsf_psauthen_error5">Please activate your account</string>
     <string name="com_lenovo_lsf_psauthen_error6">The account has been disabled</string>
     <string name="com_lenovo_lsf_psauthen_error7">The account is locked</string>
