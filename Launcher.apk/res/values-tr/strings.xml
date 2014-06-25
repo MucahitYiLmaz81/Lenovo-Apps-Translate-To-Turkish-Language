@@ -1,4 +1,4 @@
-<?xml versiyon="1.0" kodlama="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="com_lenovo_lsf_app_name">SistemKullanıcısı</string>
     <string name="com_lenovo_lsf_lenovouser_app_name">Lenovo Kullanıcı Adı</string>
@@ -16,7 +16,7 @@
     <string name="com_lenovo_lsf_lenovouser_change_progess">Şifre değiştiriliyor, lütfen bekleyin......</string>
     <string name="com_lenovo_lsf_lenovouser_change_success">Şifre değiştirildi.</string>
     <string name="com_lenovo_lsf_lenovouser_change_failure">İnternete bağlanılamadı. Lütfen tekrar deneyin.</string>
-    <string name="com_lenovo_lsf_lenovouser_login_text0">Lenovo hesabınıza giriş yapınız</string>
+    <string name="com_lenovo_lsf_lenovouser_login_text0">Lenovo hesabınıza giriş yapın</string>
     <string name="com_lenovo_lsf_lenovouser_login_text7">Giriş başarılı</string>
     <string name="com_lenovo_lsf_lenovouser_login_progess">Giriş yapılıyor, lütfen bekleyin...</string>
     <string name="com_lenovo_lsf_lenovouser_login_failure">Giriş başarısız</string>
@@ -25,19 +25,19 @@
     <string name="com_lenovo_lsf_lenovouser_login_resendfailure1">Hesabınız henüz aktif edilmedi. Cep telefonunuza tekrar aktivasyon kodu yollansın mı?</string>
     <string name="com_lenovo_lsf_lenovouser_login_rprogess">Aktivasyon kodu yollanıyor, lütfen bekleyin...</string>
     <string name="com_lenovo_lsf_lenovouser_login_resendst">Aktivasyon kodu yollandı</string>
-    <string name="com_lenovo_lsf_lenovouser_login_resends">Aktivasyon kodunuz kayıtlı olduğunuz e-mail adresinize yollandı, lütfen kontrol ediniz.</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resends">Aktivasyon kodunuz kayıtlı olduğunuz e-mail adresinize yollandı, lütfen kontrol edin.</string>
     <string name="com_lenovo_lsf_lenovouser_login_resendft">Tekrar aktivasyon e-maili tekrar gönderme başarısız</string>
     <string name="com_lenovo_lsf_lenovouser_login_resendf">İnternete bağlanılamadı. Lütfen tekrar deneyin.</string>
     <string name="com_lenovo_lsf_lenovouser_login_rprogess1">Aktivasyon mesajı gönderiliyor, lütfen bekleyin...</string>
     <string name="com_lenovo_lsf_lenovouser_login_resendst1">Aktivasyon mesajı gönderildi</string>
-    <string name="com_lenovo_lsf_lenovouser_login_resends1">Aktivasyon kodunuz kayıtlı olduğunuz telefon numarasına yollandı, lütfen kontrol ediniz.</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resends1">Aktivasyon kodunuz kayıtlı olduğunuz telefon numarasına yollandı, lütfen kontrol edin.</string>
     <string name="com_lenovo_lsf_lenovouser_login_resendft1">Tekrar aktivasyon mesajı gönderme başarısız</string>
     <string name="com_lenovo_lsf_lenovouser_login_resendf1">İnternete bağlanılamadı. Lütfen tekrar deneyin.</string>
     <string name="com_lenovo_lsf_lenovouser_login_error1">Böyle bir kullanıcı yok</string>
-    <string name="com_lenovo_lsf_lenovouser_login_error2">Geçersiz şifre,lütfen ilk onu bulun</string>
-    <string name="com_lenovo_lsf_lenovouser_login_error3">Hesabınızı aktif ettikten sonra giriş yapınız</string>
-    <string name="com_lenovo_lsf_lenovouser_login_error4">Lütfen şifrenizi giriniz</string>
-    <string name="com_lenovo_lsf_lenovouser_login_error5">Lütfen hesabınızı giriniz</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error2">Geçersiz şifre,lütfen doğru şifreyi yazın</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error3">Hesabınızı aktif ettikten sonra giriş yapın</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error4">Lütfen şifrenizi girin</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error5">Lütfen hesabınızı girin</string>
     <string name="com_lenovo_lsf_lenovouser_login_error6">Hesabınız geçici olarak kilitlendi çünkü 5 kere yanlış girdiniz,lütfen 10 dakika sonra tekrar deneyin</string>
     <string name="com_lenovo_lsf_lenovouser_login_error7">Kullanıcı adı formatı geçersiz</string>
     <string name="com_lenovo_lsf_lenovouser_login_error8">Hesap devre dışı bırakıldı</string>
@@ -52,7 +52,7 @@
     <string name="com_lenovo_lsf_lenovouser_userinfo_logouts">Lenovo hesabından çıkış yapıldı</string>
     <string name="com_lenovo_lsf_lenovouser_register_error1">Kullanıcı adı formatı geçersiz</string>
     <string name="com_lenovo_lsf_lenovouser_register_error2">Bu Lenovo hesabı zaten kullanılıyor</string>
-    <string name="com_lenovo_lsf_lenovouser_register_error3">Lütfen geçerli formatta şifrenizi giriniz</string>
+    <string name="com_lenovo_lsf_lenovouser_register_error3">Lütfen geçerli formatta şifrenizi girin</string>
     <string name="com_lenovo_lsf_lenovouser_register_error4">Şifreler eşleşmiyor</string>
     <string name="com_lenovo_lsf_lenovouser_register_error5">Geçersiz kod</string>
     <string name="com_lenovo_lsf_lenovouser_register_error6">Kod koruma başarısız</string>
@@ -63,12 +63,12 @@
     <string name="com_lenovo_lsf_lenovouser_register_sendfailuret">Tekrar aktivasyon e-maili gönderme başarısız</string>
     <string name="com_lenovo_lsf_lenovouser_register_sendfailure">İnternete bağlanılamadı. Lütfen tekrar deneyin.</string>
     <string name="com_lenovo_lsf_lenovouser_register_sendsuccesst">Aktivasyon e-maili yollandı</string>
-    <string name="com_lenovo_lsf_lenovouser_register_sendsuccess">Aktivasyon kodunuz kayıtlı olduğunuz e-mail adresine yollandı, lütfen kontrol ediniz.</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendsuccess">Aktivasyon kodunuz kayıtlı olduğunuz e-mail adresine yollandı, lütfen kontrol edin.</string>
     <string name="com_lenovo_lsf_lenovouser_register_sendprogess1">Aktivasyon mesajını yollanıyor, lütfen bekleyin...</string>
     <string name="com_lenovo_lsf_lenovouser_register_sendfailuret1">Tekrar aktivasyon mesajı gönderme başarısız</string>
     <string name="com_lenovo_lsf_lenovouser_register_sendfailure1">İnternete bağlanılamadı. Lütfen yeniden deneyin.</string>
     <string name="com_lenovo_lsf_lenovouser_register_sendsuccesst1">Aktivasyon mesajınız yollandı</string>
-    <string name="com_lenovo_lsf_lenovouser_register_sendsuccess1">Aktivasyon kodunuz kayıtlı olduğunuz telefon numarasına yollandı, lütfen kontrol ediniz.</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendsuccess1">Aktivasyon kodunuz kayıtlı olduğunuz telefon numarasına yollandı, lütfen kontrol edin.</string>
     <string name="com_lenovo_lsf_lenovouser_userinfo_registerlegalt">Hizmet Koşulları</string>
     <string name="com_lenovo_lsf_lenovouser_onekey_error_titlt">Kayıt başarısız</string>
     <string name="com_lenovo_lsf_lenovouser_onekey_imeiinvalid">IMEI numarası geçersiz.</string>
@@ -82,7 +82,7 @@
     <string name="com_lenovo_lsf_psauthen_error2">"PID hesabına giriş yapılamadı"</string>
     <string name="com_lenovo_lsf_psauthen_error3">Kullanıcı yok</string>
     <string name="com_lenovo_lsf_psauthen_error4">Şifre hatalı</string>
-    <string name="com_lenovo_lsf_psauthen_error5">Lütfen hesabınızı aktif ediniz</string>
+    <string name="com_lenovo_lsf_psauthen_error5">Lütfen hesabınızı aktif edin</string>
     <string name="com_lenovo_lsf_psauthen_error6">Hesap devre dışı bırakıldı</string>
     <string name="com_lenovo_lsf_psauthen_error7">Hesap kilitlendi</string>
     <string name="com_lenovo_lsf_psauthen_error8">İnternete bağlanılamadı. Lütfen tekrar deneyin.</string>
@@ -121,7 +121,7 @@
     <string name="com_lenovo_lsf_register_string_verifycodehint">Aşağıdaki kodu yazın</string>
     <string name="com_lenovo_lsf_register_string_countries">Konum</string>
     <string name="com_lenovo_lsf_forget_string_findpassword">Şifremi unuttum</string>
-    <string name="com_lenovo_lsf_forget_string_findpasswordinfo">Şifrenizi mailinize veya telefonunuza göndericeğiz.</string>
+    <string name="com_lenovo_lsf_forget_string_findpasswordinfo">Şifreniz mailinize veya telefonunuza gönderilecek.</string>
     <string name="com_lenovo_lsf_forget_string_reset">Kayıt et</string>
     <string name="com_lenovo_lsf_change_string_changepassword">Şifreyi değiştir</string>
     <string name="com_lenovo_lsf_change_string_oldpassword">Geçerli şifre</string>
