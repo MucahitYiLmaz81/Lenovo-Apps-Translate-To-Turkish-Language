@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="delete_selection">
-        <item quantity="other">Delete the selected content?</item>
-        <item quantity="one">Delete the selected content?</item>
+        <item quantity="other">Seçili öğeleri sil?</item>
+        <item quantity="one">Seçili öğeyi sil?</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d items</item>
-        <item quantity="zero">%1$d item</item>
-        <item quantity="one">%1$d item</item>
+        <item quantity="other">%1$d ürünler</item>
+        <item quantity="zero">%1$d ürün</item>
+        <item quantity="one">%1$d ürün</item>
     </plurals>
     <plurals name="number_of_albums_selected">
-        <item quantity="other">%1$d albums are selected</item>
-        <item quantity="zero">%1$d albums are selected</item>
-        <item quantity="one">%1$d albums are selected</item>
+        <item quantity="other">%1$d albümler seçildi</item>
+        <item quantity="zero">%1$d albümler seçildi</item>
+        <item quantity="one">%1$d albümler seçildi</item>
     </plurals>
     <plurals name="number_of_groups_selected">
-        <item quantity="other">%1$d groups are selected</item>
-        <item quantity="zero">%1$d groups are selected</item>
-        <item quantity="one">%1$d groups are selected</item>
+        <item quantity="other">%1$d gruplar seçildi</item>
+        <item quantity="zero">%1$d gruplar seçildi</item>
+        <item quantity="one">%1$d gruplar seçildi</item>
     </plurals>
     <plurals name="make_albums_available_offline">
-        <item quantity="other">Allow offline viewing an album.</item>
-        <item quantity="one">Allow offline viewing an album.</item>
+        <item quantity="other">Çevrimdışı albüm görüntülenmesine izin verin.</item>
+        <item quantity="one">Çevrimdışı albüm görüntülenmesine izin verin.</item>
     </plurals>
 </resources>
