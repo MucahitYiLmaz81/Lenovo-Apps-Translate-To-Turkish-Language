@@ -241,7 +241,7 @@ lütfen öncelikle br yedek oluşturun"</string>
     <string name="total_combine_need">Her bir grubun sayısı birleştirilecek:</string>
     <string name="batch_combine">Toplu Birleştirme</string>
     <string name="combine_ing">Birleşiyor</string>
-    <string name="at_least_select_two">En az iki kişi tercih edebilirsiniz</string>
+    <string name="at_least_select_two">En az iki kişi tercih etmelisiniz</string>
     <string name="combine_succeed">Birleştirme tamamlandı</string>
     <string name="no_contact">Kişi bulunamadı</string>
     <string name="sdcard_not_enough_space">SD kartta yeterli yer bulunmuyor. Uygulama yedeklenemedi.</string>
