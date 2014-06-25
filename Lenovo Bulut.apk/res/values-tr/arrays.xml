@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="frequency_question">
-        <item>What’s the default password of SYNCit? Then how to change the password ? What should I do if I forget my password?</item>
-        <item>Dose SYNCit charge?</item>
+        <item>SyncIt varsayılan parola nedir? Şifreyi nasıl değiştiririm ? Şifreyi unutursam eğer ne yapmalıyım?</item>
+        <item>Ne kadar SYNCit depolama alanım kaldı?</item>
         <item>What is contact-sync?</item>
-        <item>Why does my contacts reduce after synchronization?</item>
-        <item>How to manage my backup data when I have backed up completely?</item>
-        <item>Is SYNCit safe? Will it steal my telephone number or my backup data?</item>
-        <item>How to log out?</item>
-        <item>How to restore my contacts if I have deleted them by mistake?</item>
-        <item>My phone is not made by Lenovo. Can I use SYNCit?</item>
-        <item>Does SYNCit support other platform?</item>
+        <item>Senkronizasyondan sonra niçin rehberim azaldı?</item>
+        <item>Tamamen yedek aldığım zaman nasıl alınan yedeği kullanırım?</item>
+        <item>SYNCi güvenli mit? Telefon numaramı ya da yedekleme verimi çalar mı?</item>
+        <item>Nasıl çıkış yaparım?</item>
+        <item>Rehberimi yanlışlıkla sildiğim zaman nasıl tekrar geri yüklerim?</item>
+        <item>Telefonum Lenovo üretimi değil. SYNCit kullanabilir miyim?</item>
+        <item>SYNCit diğer platformları destekliyor mu?</item>
     </string-array>
     <string-array name="frequency_answer">
-        <item>"Default Password: You will get a message from Lenovo after your phone automatically registers and logins the SYNCit. Please check whether the kind of Security Software(as 360se and so on) obstructs the message or not in case of you don’t get it for a long time. If you lose the message or never get it, please refer to Forget My Password. 
+        <item>"Varsayılan şifre: SYNCit'a kayıt olduğunuzda ve otomatik olarak giriş yaptığınızda Lenovo'dan mesaj alıcaksınız'. Lütfen güvenlik yazılımı türü olup olmadığını kontrol edin(as 360se and so on) mesajı engellediğiniz zaman uzun süre tekrar mesaj almıcaksınız. Eğer mesajı hiç almazsanız veya kaybederseniz, lütfen şifremi unuttum butonuna tıklayın. 
 
-Change My Password: Visit the website http://cloud.lenovo.com with PC and login. Then go to change. 
+Geçerli şifrem:  http://cloud.lenovo.com sitesini bilgisayarla ziyaret et ve giriş yap . Daha sonra şifreni değiştir. 
 
-Forget My Password: visit the website http://cloud.lenovo.com，at the upper-right click on log in,then you get [Forget Password]."</item>
-        <item>SYNCit is a free mobile APP. But the network traffic cost which is produced by loading and using will be charged by operators.</item>
-        <item>Keep the local and cloud in same. Ensure the contact not lost.</item>
-        <item>SYNCit will automatically merge the reduplicated contacts in your phone.</item>
-        <item>Visit the website http://cloud.lenovo.com with PC and login. Then you can operate what data you have backed up, such as delete, modify, add etc.</item>
-        <item>SYNCit stores user’s information in the way of online banking-level encryption. It can definitely keep the personal data and information security and they will never be leaked.</item>
-        <item>Click at the upper-left corner about account,then choice[Log Out].</item>
-        <item>If you delete the contacts, once sync contacts, you can try [Recover Contacts] through your phone or visit the website http://cloud.lenovo.com and login by PC.</item>
-        <item>Of course you can. If your phone’s system is one of the followings: android, iOS, Symbian or supporting java, you can find the match version to use.</item>
-        <item>Yes, it supports Symbian, iOS, Android and Java platform.</item>
+Şifremi unuttum: http://cloud.lenovo.com sitesini ziyaret et，giriş yapma butonunun sağ üst tarafındaki şifremi unuttum butonuna tıkla,daha sonra değiştirebilirsin [Şifremi unuttum]."</item>
+        <item>SYNCit ücretsiz cep telefonu uygulamasıdır. Ama herhangi bir internet paketine sahip değilseniz ağ trafik maliyeti operatörler tarafından tahsil edilecektir..</item>
+        <item>Yerel ve bulut depo alanınızı bir arada tutun. Verilerini kaybetmemeyi garantiye alın.</item>
+        <item>SyncIt telefonunuzda bulunan aynı kartvizitleri otomatik olarak birleştirir.</item>
+        <item>Bilgisayarınızla http://cloud.lenovo.com sitesini ziyaret edin ve giriş yapın. Daha sonra bulut hesabında veriler yedekleme,silmer,değiştirme,ekleme vb. gibi değişiklikler yapabilirsin.</item>
+        <item>SYNCit online bankacılık şifreleme düzeyinde kullanıcılarının bilgilerini saklar . Kişisel veriniz ve bilgi güvenliğiniz kesinlikle saklanır ve asla sızdırılmaz.</item>
+        <item>Hesabınızın sol üst köşesine tıklayın,sonra seçin [Çıkış yap].</item>
+        <item>Eğer rehberin silinirse, daha önceden yedeklediğin rehberini, Telefon aracılığıyla [Kişileri kurtar] deneyebilirsin ya da bilgisayarınla http://cloud.lenovo.com sitesini ziyaret edip giriş yapabilirsin.</item>
+        <item>Tabiki yapabilirsin. Eğer telefonunun sistemi bunlardan biriyse: android, iOS, Symbian ya da java destekli, kullanmak için eşleşen versiyonu bulabilirsin.</item>
+        <item>Evet, SYNCit Symbian, iOS, Android ve Java platform'unu destekliyor.</item>
     </string-array>
 </resources>
