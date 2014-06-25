@@ -5,19 +5,19 @@
         <item quantity="one">Seçili öğeyi sil?</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d ürünler</item>
+        <item quantity="other">%1$d ürün</item>
         <item quantity="zero">%1$d ürün</item>
         <item quantity="one">%1$d ürün</item>
     </plurals>
     <plurals name="number_of_albums_selected">
-        <item quantity="other">%1$d albümler seçildi</item>
-        <item quantity="zero">%1$d albümler seçildi</item>
-        <item quantity="one">%1$d albümler seçildi</item>
+        <item quantity="other">%1$d albüm seçildi</item>
+        <item quantity="zero">%1$d albüm seçildi</item>
+        <item quantity="one">%1$d albüm seçildi</item>
     </plurals>
     <plurals name="number_of_groups_selected">
-        <item quantity="other">%1$d gruplar seçildi</item>
-        <item quantity="zero">%1$d gruplar seçildi</item>
-        <item quantity="one">%1$d gruplar seçildi</item>
+        <item quantity="other">%1$d grup seçildi</item>
+        <item quantity="zero">%1$d grup seçildi</item>
+        <item quantity="one">%1$d grupseçildi</item>
     </plurals>
     <plurals name="make_albums_available_offline">
         <item quantity="other">Çevrimdışı albüm görüntülenmesine izin verin.</item>
