@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="pref_slide_effect_choices">
-        <item>Default</item>
-        <item>Rotate</item>
+        <item></item>
+        <item>Döndür</item>
         <item>Bulldoze</item>
         <item>Windmill</item>
-        <item>Cube</item>
+        <item>Küp</item>
         <item>Sine Wave</item>
-        <item>Cylinder</item>
+        <item>Silindir</item>
     </string-array>
     <string-array name="pref_gesture_choices">
-        <item>None</item>
-        <item>Open desktop menu</item>
-        <item>Show recently used apps</item>
-        <item>Open notification bar</item>
-        <item>Find icon</item>
-        <item>Lock screen</item>
+        <item>Hiçbiri</item>
+        <item>Masaüstü menüsünü aç</item>
+        <item>En son kullanılan uygulamarı göster</item>
+        <item>Bildirim çubuğunu aç</item>
+        <item>Simgeyi bul</item>
+        <item>Kilit ekranı</item>
     </string-array>
 </resources>
