@@ -147,7 +147,7 @@
     <string name="photo_dialog_setting_net">Bağlantıyı ayarla</string>
     <string name="no_sms_to_backup">SMS yedeği yok</string>
     <string name="no_sms_backuped">"SMS yedeği yok
-Please backup first"</string>
+lütfen öncelikle br yedek oluşturun"</string>
     <string name="remind_message_never_backup">Kişiler daha önce hiç yedeklenmedi, şimdi yedeklemek ister misin?</string>
     <string name="remind_message_contact_backup">Son 2 hafta içerisinde kişilerinizde değişiklik oldu, şimdi yedeklemek ister misin?</string>
     <string name="remind_message_sms_backup">Son zamanlarda birçok yeni SMS aldınız, şimdi yedeklemek ister misiniz?</string>
